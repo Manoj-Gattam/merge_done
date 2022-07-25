@@ -1,2 +1,4 @@
 this is the first sample file.
 content to append
+
+this is the modified text.
